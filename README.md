@@ -1,4 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=WhatJH's%20Github%20😼&fontSize=40&fontAlignY=40)
+
+
+🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> 
+
+
 
 <!--
 **WhatJH/WhatJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
