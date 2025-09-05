@@ -1,10 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=WhatJH's%20Github%20😼&fontSize=40&fontAlignY=40)
 
 
-🌱 I’m currently learning 
-<br/>
- <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> 
 
+
+<div align="center">
+  🌱 I’m currently learning ...
+<br/>
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> 
+ <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://www.typescriptlang.org/assets/images/icons/open-graph.png" alt="TypeScript Logo" width="200" />
+
+
+</div>
 
 
 <!--
