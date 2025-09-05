@@ -8,7 +8,7 @@
 <br/>
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> 
  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://www.typescriptlang.org/assets/images/icons/open-graph.png" alt="TypeScript Logo" width="200" />
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 
 
 </div>
