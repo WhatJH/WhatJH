@@ -2,8 +2,7 @@
 
 
 🌱 I’m currently learning ...
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> 
+&nbsp;&nbsp; <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> 
 
 
 
